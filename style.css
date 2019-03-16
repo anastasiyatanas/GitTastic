@@ -1,0 +1,16 @@
+.center{
+    text-align: center
+}
+.div{
+    align-items: center;
+    margin-left: 567px;
+    margin-top: 20px;
+    margin-bottom: 5px;
+}
+.search{
+    align-items: center;
+    margin-bottom: 5px;
+}
+.item{
+    align-content: center;
+}
